@@ -7,7 +7,7 @@ tutorial
 
 ## Screenshot
 
-![App Screenshot](https://github.com/akshayCODE27/raining_python/blob/master/blob/images/Screenshot.png?raw=true)
+![App Screenshot](https://github.com/akshayCODE27/blob_files/blob/main/raining_py/screenshots/Screenshot.png?raw=true)
 
 
 ## Requirements
