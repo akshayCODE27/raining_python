@@ -13,4 +13,14 @@ REVERSE = "\033[;7m"
 RESET = "\033[0m"
 
 def change_color(color):
+    """
+    A function that changes the color. 
+
+    Args:
+        color (str): The color to change to.
+
+    Returns:
+        None
+    """
     print(color, end="")
+    
